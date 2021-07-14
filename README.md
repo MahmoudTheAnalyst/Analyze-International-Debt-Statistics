@@ -1,5 +1,5 @@
 # Analyze-International-Debt-Statistics
-*SQL project on DataCamp*
+*Write SQL queries to answer interesting questions about international debt using data from The World Bank.*
 
 **Project Description**
 
